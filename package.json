@@ -1,5 +1,5 @@
 {
-  "name": "Stock App",
+  "name": "StockApp",
   "version": "1.0.0",
   "description": "Real time stock data visualization",
   "main": "server.js",
