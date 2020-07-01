@@ -1,0 +1,11 @@
+{
+    "name": "stock app",
+    "description": "Real time stock app",
+    "repository": "https://github.com/anup-gupta1/stockapp",
+    "logo": "https://pbs.twimg.com/profile_images/819995692810862592/Rxibldpo.jpg",
+    "keywords": [
+        "node",
+        "express"
+    ],
+    "image": "heroku/node js"
+}
