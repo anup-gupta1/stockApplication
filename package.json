@@ -1,7 +1,7 @@
 {
-  "name": "mernapp",
+  "name": "Stock App",
   "version": "1.0.0",
-  "description": "Simple user info listing",
+  "description": "Real time stock data visualization",
   "main": "server.js",
   "scripts": {
     "start": "node  server.js",
