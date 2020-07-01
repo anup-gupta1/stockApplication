@@ -23,11 +23,6 @@ const insertStockData = () => {
                     let data = {}
                     let count = 0
                     for (let i in timeSeries) {
-                        // if(count === 0) {
-                        //     const open = Number(timeSeries["2020-06-30"]["1. close"]);
-                        //     const current = Number(timeSeries["2020-06-30"]["1. close"]);
-                        //     count += 1;
-                        // }
                         data[i] = {}
                         data[i]["open"] = timeSeries[i]["1. open"]
                         data[i]["high"] = timeSeries[i]["2. high"]
